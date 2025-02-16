@@ -92,7 +92,7 @@ names: ["dent", "scratch", "crack", "shatter glass", "broken lamp", "flat tire"]
 
 ### 📷 **Original Test Samples**  AND ### 🛠️ **Predicted Test Images**
 
-![Test Images 1](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/Untitled design.png)  
+![Test Images 1](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/Untitled_design.png)  
 
 ---
 
