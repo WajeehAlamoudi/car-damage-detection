@@ -95,7 +95,7 @@ names: ["dent", "scratch", "crack", "shatter glass", "broken lamp", "flat tire"]
 ![Test Image 1](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/downloaded_image_20250216_162019.jpeg)  
 ![Test Image 2](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/downloaded_image_20250216_162318.jpeg)  
 ![Test Image 3](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/test_image.jpeg)  
-![Test Image 4](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/test_image.jpg)  
+ 
 
 ---
 
@@ -103,7 +103,7 @@ names: ["dent", "scratch", "crack", "shatter glass", "broken lamp", "flat tire"]
 
 ![Predicted 1](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/downloaded_image_20250216_162019_predicted.jpeg)  
 ![Predicted 2](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/downloaded_image_20250216_162318_predicted.jpeg)  
-
+![Test Image 3](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/test_image.jpg) 
 
 
 ---
