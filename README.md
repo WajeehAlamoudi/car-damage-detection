@@ -94,8 +94,8 @@ names: ["dent", "scratch", "crack", "shatter glass", "broken lamp", "flat tire"]
 
 Here are **4 random samples** from the **test set**:
 
-\
-\
+\https://drive.google.com/file/d/1Zhg56LbIE4M5_gpd5Z_O2xjFmcdjWfKi/view?usp=drive_link
+\https://drive.google.com/file/d/1ZjeNM1YLhExvnl9NC94JYZ2UPvyuWe6k/view?usp=sharing
 \
 
 
