@@ -92,20 +92,18 @@ names: ["dent", "scratch", "crack", "shatter glass", "broken lamp", "flat tire"]
 
 ### 📷 **Original Test Samples**
 
-Here are **4 random samples** from the **test set**:
-
-![Test Image 1](https://drive.google.com/file/d/1Zhg56LbIE4M5_gpd5Z_O2xjFmcdjWfKi/view?usp=drive_link)
-\https://drive.google.com/file/d/1ZjeNM1YLhExvnl9NC94JYZ2UPvyuWe6k/view?usp=sharing
-\
-
+![Test Image 1](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/downloaded_image_20250216_162019.jpeg)  
+![Test Image 2](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/downloaded_image_20250216_162318.jpeg)  
+![Test Image 3](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/test_image.jpeg)  
+![Test Image 4](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/test_image.jpg)  
 
 ---
 
 ### 🛠️ **Predicted Test Images**
 
-\
-\
-\
+![Predicted 1](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/downloaded_image_20250216_162019_predicted.jpeg)  
+![Predicted 2](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/downloaded_image_20250216_162318_predicted.jpeg)  
+
 
 
 ---
