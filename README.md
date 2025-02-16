@@ -90,11 +90,10 @@ names: ["dent", "scratch", "crack", "shatter glass", "broken lamp", "flat tire"]
 
 ## 🧪 Sample Test Images & Predictions
 
-### 📷 **Original Test Samples**  AND ### 🛠️ **Predicted Test Images**
+### 📷 **Original Test Samples  AND 🛠️ Predicted Test Images**
 
-![Test Images 1](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/Untitled%20design.png)
+![Untitled Design](https://raw.githubusercontent.com/WajeehAlamoudi/car-damage-detection/main/test_samples/Untitled%20design.png)
   
-
 ---
 
 ## 🚀 How to Run Inference Locally
